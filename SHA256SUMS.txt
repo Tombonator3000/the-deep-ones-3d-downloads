@@ -1,0 +1,2 @@
+c175eb7e7b0e4ab6d4549cd5745053b17e5f4a06021ce50605eeff4f7cdd5947  TheDeepOnes-Linux.tar.gz
+94f8870a50c03d3295b8a38141ff34064173a2f3e93c4b4f9d9ec819757cd822  TheDeepOnes-Windows.zip
