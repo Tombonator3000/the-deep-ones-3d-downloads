@@ -2,7 +2,7 @@
 
 A Norwegian fishing mystery: familiar waters, strange catches, and your father's field book.
 
-## Download 0.25 — Abyss Expedition
+## Download 0.26 — Refracted Waters
 
 No GitHub account is needed.
 
@@ -14,16 +14,16 @@ No GitHub account is needed.
 
 **Linux:** Extract the archive, then run `./Start-Linux.sh`. If executable permissions were removed, run `chmod +x Start-Linux.sh TheDeepOnes.x86_64` first.
 
-Use the in-game **How to play** menu for controls. A/D rows the boat and walks the seabed. Space remains the main fishing button and inspects objects during the dive. E begins the descent at the Havdjupet threshold. Backspace returns to the boat during an unfinished dive.
+Use the in-game **How to play** menu for controls. A/D rows the boat and walks the seabed. Space fishes or inspects during the dive. E begins the descent at the Havdjupet threshold. Backspace returns to the boat during an unfinished dive.
 
-0.25 adds a late-game descent from the expedition trawler to the submerged threshold. Follow the lifeline, inspect Father's equipment, recover the missing idol, seat it in the mechanism, and choose whether to seal the passage or keep watch. A human uses the hard-hat diving rig; a player who permanently became a Deep One keeps that form. Returning to the boat restores ordinary fishing.
+0.26 refines the existing underwater view with restrained refraction, receiver-based caustics and light shafts that fade with depth, weather and night. The effects remain outside the HUD and are reduced by the accessibility settings. Storms gain connected dark cloud masses, directional edges and distant rain curtains that stay anchored to the world as the boat moves.
 
-The underwater presentation adds the adapted trawler and diver, 720 decorative background fish, Norwegian vegetation, suspended matter, caustics and depth-dependent light. These schools do not replace catchable fish. The procedural work adapts a user-supplied Antikythera reference into native game assets; the original HTML and its external library are not shipped, and full source fidelity is not claimed.
+The 0.25 Abyss Expedition remains intact: descend from the trawler, follow the lifeline, inspect Father's equipment, restore the submerged mechanism and choose whether to seal the passage or keep watch. Existing campaign content, endings, field-book progress, supplied music and environmental audio remain available.
 
-Existing 0.24 saves load through format 8 and receive a version-7 migration backup. Existing endings, idol ownership, field-book progress, settings, supplied music and the 0.24 environment audio remain. Saves written by 0.25 require 0.25 or a later compatible version.
+Save format remains version 8, and existing 0.25 saves remain compatible.
 
-This is a work-in-progress playtest. Both platform builds are complete. Scoped native Linux tests passed both diving routes, interrupted returns, saved progress, Continue and ordinary fishing, using staged late-game prerequisites and injected engine input. Windows execution, physical controllers and a human full-campaign playthrough remain unverified. At 1600×900 on Intel ARL, the dive averaged 59.35 fps and fishing/harbour about 60 fps, with one 359 ms dive stall and one 68 ms harbour stall. No stable frame-rate claim is made.
+This is a work-in-progress playtest. Linux visual checks use staged states and injected engine input. Windows execution, physical controllers and a full human campaign remain unverified. Consult the release notes for the final measured performance scope; no stable 60 fps claim is made.
 
 This repository contains download information only. The game source remains private. GitHub's automatic “Source code” archives contain this page, not the playable game; use the platform downloads above.
 
-The release tagged `v0.24.0` and its assets remain available. Stable latest-download filenames point to the newest public build.
+The release tagged `v0.25.0` and its assets remain available. Stable latest-download filenames point to the newest public build.
