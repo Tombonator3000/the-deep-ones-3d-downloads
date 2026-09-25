@@ -2,7 +2,7 @@
 
 A Norwegian fishing mystery: familiar waters, strange catches, and your father's field book.
 
-## Download 0.27 — Sunlit Waters
+## Download 0.28 — Deep Light
 
 No GitHub account is needed.
 
@@ -16,8 +16,8 @@ No GitHub account is needed.
 
 Use the in-game **How to play** menu for controls. A/D rows the boat and walks the seabed. Space fishes or inspects during the dive. E begins the descent at the Havdjupet threshold. Backspace returns to the boat during an unfinished dive.
 
-0.27 revises water colour and light, clouds, sky and underwater visibility. Fish now vary in size and weight; weight affects fights, stamina and line behaviour. The field book records personal bests. Existing areas, expedition, story, music and saves remain available.
+Deep Light adds richer underwater lighting, a smoother fishing line, fish drawn toward the boat, fuller waters with 43 fish species, and illustrated HUD instruments. Existing areas, expedition, story, music and version-8 saves remain available.
 
-This is a work-in-progress playtest. Read the release notes for the exact verification scope. This repository contains download information only; GitHub's automatic “Source code” archives do not contain the playable game.
+This is a work-in-progress playtest. Read the release notes for the verification scope. Windows execution, physical controllers and a full human campaign remain unverified. This repository contains download information only; GitHub's automatic “Source code” archives do not contain the playable game.
 
 Older tagged releases remain available. The stable latest-download filenames point to the newest public build.
