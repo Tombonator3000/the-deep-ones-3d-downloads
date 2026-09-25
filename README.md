@@ -2,7 +2,7 @@
 
 A Norwegian fishing mystery: familiar waters, strange catches, and your father's field book.
 
-## Download 0.26 — Refracted Waters
+## Download 0.27 — Sunlit Waters
 
 No GitHub account is needed.
 
@@ -16,14 +16,8 @@ No GitHub account is needed.
 
 Use the in-game **How to play** menu for controls. A/D rows the boat and walks the seabed. Space fishes or inspects during the dive. E begins the descent at the Havdjupet threshold. Backspace returns to the boat during an unfinished dive.
 
-0.26 refines the existing underwater view with restrained refraction, receiver-based caustics and light shafts that fade with depth, weather and night. The effects remain outside the HUD and are reduced by the accessibility settings. Storms gain connected dark cloud masses, directional edges and distant rain curtains that stay anchored to the world as the boat moves.
+0.27 revises water colour and light, clouds, sky and underwater visibility. Fish now vary in size and weight; weight affects fights, stamina and line behaviour. The field book records personal bests. Existing areas, expedition, story, music and saves remain available.
 
-The 0.25 Abyss Expedition remains intact: descend from the trawler, follow the lifeline, inspect Father's equipment, restore the submerged mechanism and choose whether to seal the passage or keep watch. Existing campaign content, endings, field-book progress, supplied music and environmental audio remain available.
+This is a work-in-progress playtest. Read the release notes for the exact verification scope. This repository contains download information only; GitHub's automatic “Source code” archives do not contain the playable game.
 
-Save format remains version 8, and existing 0.25 saves remain compatible.
-
-This is a work-in-progress playtest. Linux visual checks use staged states and injected engine input. Windows execution, physical controllers and a full human campaign remain unverified. Consult the release notes for the final measured performance scope; no stable 60 fps claim is made.
-
-This repository contains download information only. The game source remains private. GitHub's automatic “Source code” archives contain this page, not the playable game; use the platform downloads above.
-
-The release tagged `v0.25.0` and its assets remain available. Stable latest-download filenames point to the newest public build.
+Older tagged releases remain available. The stable latest-download filenames point to the newest public build.
